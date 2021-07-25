@@ -1,4 +1,5 @@
-# Note: DEPRECATED 
+# Note: DEPRECATED (DEPRECATED RELEASED)
+
 Please note that these applications are deprecated. Support for the android single wallets has been suspended. Issues and pull-requests are no longer reviewed by our team.
 Commercial proposals for the development of such applications can be sent to partners@guarda.com 
 
